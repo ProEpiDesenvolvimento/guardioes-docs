@@ -1,0 +1,14 @@
+site_name: Guardiões da Saúde Docs
+theme:
+  palette:
+    primary: green
+    accent: light blue
+  logo: ./assets/img/logo.png
+  favicon: ./assets/img/favicon.ico
+  name: material
+  features:
+    - navigation.tabs
+extra_css:
+  - stylesheets/styles.css
+
+dev_addr: "0.0.0.0:8000"
