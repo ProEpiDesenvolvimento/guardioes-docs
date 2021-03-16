@@ -1,4 +1,4 @@
-# Guardiões da Saúde Documentação
+# Documentação do Guardiões da Saúde
 
 ## Rodar localmente
 
@@ -15,4 +15,4 @@
 - Para rodar:
 <pre><code>docker-compose up</code></pre>
 
-- Acesse a url local http://0.0.0.0:8000/
+- Acesse a url local http://localhost:8000
