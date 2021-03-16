@@ -1,0 +1,7 @@
+/* #348eac #5DD39E */
+
+[data-md-color-primary=blue] {
+    --md-primary-fg-color: #348eac;
+    --md-primary-fg-color--light: #348eac;
+    --md-primary-fg-color--dark: #348eac;
+}
