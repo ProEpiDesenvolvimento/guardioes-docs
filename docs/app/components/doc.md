@@ -4,8 +4,8 @@ Esse componente é um pressionável que ao clicar abre um modal, mostrando as op
 
 Ele possui as seguintes props: 
 
- - **data**: São os dados que o usuário terá que selecionar. Deve ser uma array de strings. Obrigatório.
- - **value**: É o valor mostrado. Obrigatório.
- - **onChange**: É a função que altera o **value**. É por ela que o component retorna o valor obtido para o Componente pai. Obrigatório.
+ - **data**: São os dados que o usuário terá que selecionar. Deve ser uma array de objetos e cada objeto deve ter o campo 'label'. Obrigatório.
+ - **value**: É o valor mostrado fora do modal no campo onde o usuário clica para abrir o modal. Obrigatório.
+ - **onChange**: É a função que altera o **value**. É por ela que o component retorna o valor obtido para o Componente pai. Obrigatório. Ela retorna um objeto da array de **data**.
  - **textCancel**: Texto usado no botão de cancelar. Tem valor padrão: _translate('selector.cancelButton')_
  - **placeholder**: Placeholder do text input.
