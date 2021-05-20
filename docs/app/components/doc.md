@@ -1,6 +1,7 @@
 ## Component Autocomplete
 
 Esse componente é um pressionável que ao clicar abre um modal, mostrando as opções dispońiveis para completar. Em questões de estilização ele é um campo que vai ocupar 100% da largura do componente pai e tem altura fixa.
+Para a implementação de um novo autocomplete, na pasta locales tem um objeto específico para placeholders costumizados.
 
 Ele possui as seguintes props: 
 
