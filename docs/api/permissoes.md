@@ -1,26 +1,26 @@
-# Permissões de usuários.
+# Permissões de usuários
 
-Esse documento tem como objetivo explicar as permissões que cada usuário tem na API de uma forma gráfica e de fácil entendimento. Também tem como função validar as cada uma das permissões existentes. 
+Esse documento tem como objetivo explicar as permissões que cada usuário tem na API de uma forma gráfica e de fácil entendimento. Também tem como função validar cada uma das permissões existentes.
 
-Segue abaixo as permissões que cada um dos 6 tipos de usuários possuem na API
+Segue abaixo as permissões que cada um dos 6 tipos de usuários possuem na API:
 
-## Admin:
+## Admin
 
 ![admin](img/Permissoes_usuario-Admin.png)
 
-## Manager:
+## Manager
 
 ![manager](img/Permissoes_usuario-Manager.png)
 
-## CityManager:
+## CityManager
 
 ![city_manager](img/Permissoes_usuario-CityManager.png)
 
-## GroupManager:
+## GroupManager
 
 ![group_manager](img/Permissoes_usuario-GroupManager.png)
 
-## GroupManagerTeam:
+## GroupManagerTeam
 
 ![group_manager_team](img/Permissoes_usuario-GroupManagerTeam.png)
 
