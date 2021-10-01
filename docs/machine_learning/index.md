@@ -11,9 +11,9 @@ Para maiores detalhes rode os dois notebooks onde os testes dos modelos estão h
 
 ## Execução dos notebooks
 
-Para rodá-los basta instalar os seguintes pacotes:
--  [Python](https://tutorial.djangogirls.org/pt/python_installation/)
--  [Jupyter notebook](https://jupyter.org/install)
+Para rodá-los basta instalar os seguintes pacotes:<br>
+-  [Python](https://tutorial.djangogirls.org/pt/python_installation/)<br>
+-  [Jupyter notebook](https://jupyter.org/install)<br>
 -  Para os pacotes que são importados em cada um dos arquivos basta dar o seguinte comando para cada pacote:
 ```Shell
 pip3 install <nome-do-pacote>
