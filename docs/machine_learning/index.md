@@ -22,6 +22,12 @@ pip3 install <nome-do-pacote>
 
 obs: Alguns pacotes podem ter nomes diferentes dos imports, nesse caso procure a documentação do pacote para instalá-lo corretamente.
 
+## Preparação dos dados
+
+Para executar o notebook de preparação dos dados no arquivo: ./prepare_data.ipynb basta criar uma pasta chamada data_city/ para armazenar os arquivos que contem os casos por cidade. Para execução desse script também é necessário que baixe os dados de Goias no site do [e-sus](https://opendatasus.saude.gov.br/gl/dataset/casos-nacionais).
+
 ## Dados
 
 Alguns dados de amostra já pré-tratados já estão disponíveis na pasta /docs/machine_learning/data. Os dados originais se encontram neste [site].(https://opendatasus.saude.gov.br/gl/dataset/casos-nacionais)
+
+
